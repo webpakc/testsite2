@@ -1,0 +1,11 @@
+@import "base";
+@import "test";
+@import "header";
+@import "article";
+@import "content";
+@import "footer";
+
+
+.wrap{
+    overflow: auto;
+}
