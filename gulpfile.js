@@ -30,6 +30,7 @@ gulp.task('crit', () => {
         inline: true,
         css: ['dist/styles.css'],
         width: 414,
+        height:736,
         target: {
             css: 'crit.css',
 

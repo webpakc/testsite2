@@ -16,7 +16,7 @@ header{
     .content{
         &.full{
             height:400px;
-            background-image: url('/dist/imgs/hbg.jpeg');
+            background-image: url('dist/imgs/hbg.jpeg');
             background-size: cover;
             background-position: center;
             @media(max-width:414px){
