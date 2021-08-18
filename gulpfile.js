@@ -29,8 +29,8 @@ gulp.task('crit', () => {
         base: 'dist/',
         inline: true,
         css: ['dist/styles.css'],
-        width: 414,
-        height:736,
+        // width: 414,
+        height:900,
         target: {
             css: 'crit.css',
 
